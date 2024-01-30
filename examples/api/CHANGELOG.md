@@ -1,5 +1,14 @@
 # Changelog
 
+## \[2.0.0-alpha.10]
+
+### Dependencies
+
+- Upgraded to `fs-js@2.0.0-alpha.7`
+- Upgraded to `notification-js@2.0.0-alpha.6`
+- Upgraded to `http-js@2.0.0-alpha.7`
+- Upgraded to `updater-js@2.0.0-alpha.6`
+
 ## \[2.0.0-alpha.9]
 
 ### Dependencies

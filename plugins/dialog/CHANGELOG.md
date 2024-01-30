@@ -1,5 +1,13 @@
 # Changelog
 
+## \[2.0.0-alpha.8]
+
+- [`bf5a21d`](https://github.com/tauri-apps/plugins-workspace/commit/bf5a21d5b2a262b9cbabfdedd697d5bf7d084fbf)([#873](https://github.com/tauri-apps/plugins-workspace/pull/873)) On Android, do not add a `Cancel` button to message dialogs.
+
+### Dependencies
+
+- Upgraded to `fs@2.0.0-alpha.8`
+
 ## \[2.0.0-alpha.7]
 
 ### Dependencies

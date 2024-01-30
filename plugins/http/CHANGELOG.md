@@ -1,5 +1,9 @@
 # Changelog
 
+## \[2.0.0-alpha.7]
+
+- [`1a34720`](https://github.com/tauri-apps/plugins-workspace/commit/1a347203a54eccc954749d11c4ee81fdd9a0cde7)([#858](https://github.com/tauri-apps/plugins-workspace/pull/858)) Fix http fetch client option init with parameter `connectTimeout`
+
 ## \[2.0.0-alpha.9]
 
 ### Dependencies
@@ -51,6 +55,11 @@
   371\)) First v2 alpha release!
   !
   371\)) First v2 alpha release!
+  !
+  371\)) First v2 alpha release!
+  !
+  371\)) First v2 alpha release!
+release!
   !
   371\)) First v2 alpha release!
   !

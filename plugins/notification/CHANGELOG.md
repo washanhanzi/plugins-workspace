@@ -1,5 +1,10 @@
 # Changelog
 
+## \[2.0.0-alpha.6]
+
+- [`1b1d795`](https://github.com/tauri-apps/plugins-workspace/commit/1b1d795b5866e5524a9a9925f0fb7b2f8e3e3675)([#874](https://github.com/tauri-apps/plugins-workspace/pull/874)) Export the missing `Schedule` class.
+- [`8dea78a`](https://github.com/tauri-apps/plugins-workspace/commit/8dea78ac7dcb502159e66bad464094696aa257d4)([#909](https://github.com/tauri-apps/plugins-workspace/pull/909)) Fixes deserialization and implementation bugs with scheduled notifications on Android.
+
 ## \[2.0.0-alpha.5]
 
 - [`387c2f9`](https://github.com/tauri-apps/plugins-workspace/commit/387c2f9e0ce4c75c07ffa3fd76391a25b58f5daf)([#802](https://github.com/tauri-apps/plugins-workspace/pull/802)) Update to @tauri-apps/api v2.0.0-alpha.13.
